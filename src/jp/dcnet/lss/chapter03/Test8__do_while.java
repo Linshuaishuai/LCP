@@ -6,7 +6,7 @@ public class Test8__do_while {
 		// TODO 自動生成されたメソッド・スタブ
 		int x = 1;
 		do {
-			System.out.println(x);
+			System.out.print(x);
 			x++;
 			} while (x < 10);
 

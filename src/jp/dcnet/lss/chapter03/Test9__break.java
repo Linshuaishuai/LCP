@@ -8,7 +8,7 @@ public class Test9__break {
 			if (i > 10) {
 			break; 
 			}
-			System.out.println(i);
+			System.out.print(i);
 		}
 
 	}

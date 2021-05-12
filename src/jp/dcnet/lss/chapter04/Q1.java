@@ -7,7 +7,6 @@ public class Q1 {
 		int[] array = new int[] {5, 6};
 		System.out.println(array[0]);
 		System.out.println(array[1]);
-
 	}
 
 }

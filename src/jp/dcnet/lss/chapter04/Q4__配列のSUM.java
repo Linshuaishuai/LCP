@@ -8,8 +8,9 @@ public class Q4__配列のSUM {
 		int[] array = new int[] {1, 3, 5, 7, 100, 0, 1};
 		for(int x : array) {			
 			a += x;
-			System.out.println(x);
+			System.out.print(x);
 		}
+		System.out.println();
 		System.out.println(a);
 	}
 

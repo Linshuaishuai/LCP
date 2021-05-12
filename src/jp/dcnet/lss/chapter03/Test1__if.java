@@ -7,7 +7,7 @@ public class Test1__if {
 		int a = 10;
 		int b = 20;
 		if (a > b) {
-			System.out.println("ここに到着できない。"); 
+			System.out.println("ここに到着できない。");
 		}
 		System.out.println("該当行は実施しますか︖");
 

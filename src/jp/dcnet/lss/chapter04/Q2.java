@@ -9,11 +9,10 @@ public class Q2 {
 				{2,3},
 				{3,4},
 				{4,5}
-				
 		};
 		for (int[] out : array2d) {
 			for (int inner : out) {
-				System.out.println(inner); } 
+				System.out.print(inner); } 
 		}
 
 	}

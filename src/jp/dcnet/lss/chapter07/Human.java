@@ -11,7 +11,7 @@ public class Human {
 	//性別
 	boolean humanProSex;
 
-	//コンストラクタ:1.メソッド　＝クラス名2戻り値タイプの指定不要
+	//コンストラクタ:1.メソッド名＝クラス名2戻り値タイプの指定不要
 
 	Human(String humanProName, int humanProAge, boolean humanProSex) {
 		this.humanProName = humanProName;
